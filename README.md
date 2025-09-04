@@ -65,7 +65,7 @@ Sumar al contador global la cantidad escrita.
 ```bash
 git clone https://github.com/NanoHtz/ft_printf.git
 ```
-🏗️ Compilación (Necesitas integrar la libft: https://github.com/NanoHtz?tab=repositories)
+🏗️ Compilación (Necesitas integrar la libft: https://github.com/NanoHtz/Libft)
 ```bash
 make         # compila libftprintf.a (mandatory)
 make bonus   # si has separado flags/extra como bonus, los añade a la librería
