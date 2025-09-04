@@ -12,9 +12,6 @@
 - [¿Para qué?](#para-que)
 - [Explicación](#explicacion)
 - [Compilación](#compilacion)
-- [Uso](#uso)
-- [Salida esperada y pruebas](#salida)
-
 ---
 <a id="resumen"></a>
 ## ✅ Resumen del proyecto<br>
