@@ -43,7 +43,8 @@ Salida: **número de caracteres impresos** (como `printf`), o `-1` si ocurre un 
 Recorrer la cadena de formato.
 
 Si aparece %, comprueba el siguiente elemento y llama a la funcion de conversion.
-Sumar al contador global la cantidad escrita; si write devuelve -1, propagar error..
+<br>
+Sumar al contador global la cantidad escrita.
 
 🔢 Conversiones soportadas
 ```text
@@ -57,3 +58,18 @@ Sumar al contador global la cantidad escrita; si write devuelve -1, propagar err
 ```
 </details>
 
+
+### 🛠️ Compilación
+<a id="compilacion"></a>
+⬇️ Descarga
+```bash
+git clone https://github.com/NanoHtz/ft_printf.git
+```
+🏗️ Compilación (Necesitas integrar la libft: https://github.com/NanoHtz?tab=repositories)
+```bash
+make         # compila libftprintf.a (mandatory)
+make bonus   # si has separado flags/extra como bonus, los añade a la librería
+make clean   # elimina .o
+make fclean  # elimina .o y libftprintf.a
+make re      # recompila desde cero
+```
