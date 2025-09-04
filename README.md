@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/NanoHtz/Assets/main/ft_printf/banner.svg" alt="ft_printf banner">
 </p>
 
-<p align="center"><i>🖨️ ft_printf (42 Cursus) — Reimplementación de printf: parser de formatos, flags, anchura, precisión y conversiones cspdiuxX%%. Librería estática lista para enlazar.</i></p>
+<p align="center"><i>🖨️ ft_printf — Reimplementación de printf: parser de formatos, flags, anchura, precisión y conversiones cspdiuxX%%. Librería estática lista para enlazar.</i></p>
 
 ---
 
