@@ -71,6 +71,10 @@ make fclean  # elimina .o y libftprintf.a
 make re      # recompila desde cero
 ```
 <a id="pruebas"></a>
-Paras las pruebas recomiendo el uso de este tester, tambien tendria especial cuidado con el uso de %, concretamente si estan seguidos.
+🏗️ Pruebas
+Tendria especial cuidado con el uso de %, concretamente si estan seguidos.
+<br>
+Paras las pruebas recomiendo el uso de este tester:
 <br>
 https://github.com/Tripouille/printfTester
+
