@@ -72,9 +72,11 @@ make re      # recompila desde cero
 ```
 <a id="pruebas"></a>
 🏗️ Pruebas
+<br>
 Tendria especial cuidado con el uso de %, concretamente si estan seguidos.
 <br>
 Paras las pruebas recomiendo el uso de este tester:
 <br>
 https://github.com/Tripouille/printfTester
+
 
