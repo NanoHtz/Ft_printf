@@ -33,7 +33,7 @@ Salida: **número de caracteres impresos** (como `printf`), o `-1` si ocurre un 
 ---
 
 <a id="explicacion"></a>
-<details>
+
   <summary><h3>📝 Explicación</h3></summary>
 🧭 Flujo general
 
@@ -53,7 +53,6 @@ Sumar al contador global la cantidad escrita.
 %x/%X → hexadecimal minúscula/mayúscula
 %% → un % literal
 ```
-</details>
 
 
 ### 🛠️ Compilación
@@ -78,5 +77,6 @@ Tendria especial cuidado con el uso de %, concretamente si estan seguidos.
 Paras las pruebas recomiendo el uso de este tester:
 <br>
 https://github.com/Tripouille/printfTester
+
 
 
