@@ -12,6 +12,7 @@
 - [¿Para qué?](#para-que)
 - [Explicación](#explicacion)
 - [Compilación](#compilacion)
+- [Pruebas](#pruebas)
 ---
 <a id="resumen"></a>
 ## ✅ Resumen del proyecto<br>
@@ -29,7 +30,6 @@ Salida: **número de caracteres impresos** (como `printf`), o `-1` si ocurre un 
 
 **¿Qué se aprende?**
 - **Diseño de parsers**: tokenizar especificadores de formato y mapearlos a una estructura.
-- **Formateo numérico**: base 10/16, signo, cero a la izquierda, prefijos `0x/0X`, mayúsculas/minúsculas.
 ---
 
 <a id="explicacion"></a>
@@ -70,3 +70,7 @@ make clean   # elimina .o
 make fclean  # elimina .o y libftprintf.a
 make re      # recompila desde cero
 ```
+<a id="pruebas"></a>
+Paras las pruebas recomiendo el uso de este tester, tambien tendria especial cuidado con el uso de %, concretamente si estan seguidos.
+<br>
+https://github.com/Tripouille/printfTester
