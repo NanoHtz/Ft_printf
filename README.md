@@ -5,7 +5,10 @@
 
 <p align="center"><i>🖨️ ft_printf — Reimplementación de printf: parser de formatos, flags, anchura, precisión y conversiones cspdiuxX%%. Librería estática lista para enlazar.</i></p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanoHtz/Assets/main/100.png" alt="ft_printf nota" height="120">
+</p>
+
 
 ## Índice
 - [Resumen](#resumen)
@@ -22,6 +25,15 @@
 - **Conversiones**: `%c`, `%s`, `%p`, `%d`, `%i`, `%u`, `%x`, `%X`, `%%`  
 
 Salida: **número de caracteres impresos** (como `printf`), o `-1` si ocurre un error de escritura.
+> Este proyecto sigue la **Norma oficial de 42** para estilo en C (Norminette).
+> En todos los proyectos de 42, el uso de la gran mayoria de bibliotecas esta prohibido, siendo nuestro propio desarrollo libft el sustituto de las funciones básicas. 
+> - Código legible.  
+> - Funciones pequeñas (<25 líneas),
+> - 4 parámetros por función,
+> - Nombres claros en `snake_case` y en inglés.
+> - 1 responsabilidad por función.
+>  - Variables declaradas al inicio del bloque(maximo 4 por función).  
+
 
 ---
 
@@ -77,6 +89,7 @@ Tendria especial cuidado con el uso de %, concretamente si estan seguidos.
 Paras las pruebas recomiendo el uso de este tester:
 <br>
 https://github.com/Tripouille/printfTester
+
 
 
 
